@@ -1,5 +1,5 @@
 {
-  "name": "minimal-note",
+  "name": "react-skeleton",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,9 +10,7 @@
     "@types/react": "^16.9.43",
     "@types/react-dom": "^16.9.8",
     "@types/styled-components": "^5.1.1",
-    "babel-loader": "^8.1.0",
     "babel-plugin-styled-components": "^1.10.7",
-    "html-loader": "^1.1.0",
     "html-webpack-plugin": "^4.3.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
